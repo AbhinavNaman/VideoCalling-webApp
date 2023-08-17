@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
+
+
+body {
+  font-family: 'Heebo', sans-serif;
+  background:
+  linear-gradient(
+    rgba(0, 0, 0, 0.3), 
+    rgba(0, 0, 0, 0.3)
+  ),
+  url(https://wallup.net/wp-content/uploads/2018/09/27/15788-abstract-multicolor-gaussian-blur-blurred.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
